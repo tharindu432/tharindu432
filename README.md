@@ -45,23 +45,23 @@
 
 <p>
   <b>Web Development:</b><br>
-  🌐 JavaScript<br>
-  ♨️ Node.js<br>
-  🌟 React<br>
-  📊 Express.js<br>
-  💻 MongoDB<br>
-  🗃️ MS SQL<br>
-  📡 Firebase<br>
+  🌐 JavaScript
+  ♨️ Node.js
+  🌟 React
+  📊 Express.js
+  💻 MongoDB
+  🗃️ MS SQL
+  📡 Firebase
   📡 Next.js<br><br>
   <b>Programming Languages:</b><br>
-  💻 Java<br>
-  🐍 R Language<br>
-  🐦 C Language<br>
+  💻 Java
+  🐍 R Language
+  🐦 C Language
   🌐 ASP .NET<br><br>
   <b>Others:</b><br>
-  📝 Data Structures<br>
-  🧱 OOP<br>
-  📮 Postman<br>
+  📝 Data Structures
+  🧱 OOP
+  📮 Postman
   📌 Trello<br>
 </p>
 
