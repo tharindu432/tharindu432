@@ -4,7 +4,7 @@
 <!-- Introduction -->
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">I'm Tharindu Ruwanpathirana 😉 </h2>
-<p align="center">I am IT undergraduate student at the University of Moratuwa. I am a curious and creative individual who is passionate about problem-solving and technology.</p>
+<p align="center">I am an IT undergraduate student at the University of Moratuwa. I am a curious and creative individual who is passionate about problem-solving and technology.</p>
 
 <!-- Skills -->
 <h2 align="center">🚀 Skills</h2>
