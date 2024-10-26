@@ -1,89 +1,66 @@
-<!-- Header -->
-
-
-<!-- Introduction -->
-<h1 align="center">Hi there! 👋</h1>
-<h2 align="center">I'm Tharindu Ruwanpathirana 😉 </h2>
-<p align="center">I am an IT undergraduate student at the University of Moratuwa. I am a curious and creative individual who is passionate about problem-solving and technology.</p>
-
-<!-- Skills -->
-<h2 align="center">🚀 Skills</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-5E463B?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+<div align="center">
   
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Springboot">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-  <a href="#"><img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Data%20Structures-0E2F56?style=for-the-badge" alt="Data Structures"></a>
-  <a href="#"><img src="https://img.shields.io/badge/OOP-5B4CAC?style=for-the-badge" alt="OOP"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"></a>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-</p>
+# Tharindu Ruwanpathirana
+### Former Intern Software Engineer @WSO2 LLC | Final Year IT Undergraduate @University of Moratuwa
 
-<!-- Currently Learning -->
-<h2 align="center">🌱 Currently Learning</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-chathuranga-ruwanpathirana-5917a520a/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=safari&logoColor=white)](https://ruwanpathiranatc.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chathuranga.rp20000@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+94764492334)
 
-<p align="center">I'm currently learning about:</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices">
-</p>
+## 👨‍💻 About Me
 
-<!-- Technologies & Tools -->
-<h2 align="center">🔧 Technologies & Tools</h2>
+Final Year IT undergraduate at University of Moratuwa with experience as a Software Engineering Intern at WSO2 LLC. Passionate about solving complex problems and creating innovative solutions through technology.
 
-<p>
-  <b>Web Development:</b><br>
-  🌐 JavaScript
-  ♨️ Node.js
-  🌟 React
-  📊 Express.js
-  💻 MongoDB
-  🗃️ MS SQL
-  📡 Firebase
-  ⚡ Springboot
-  📡 Next.js<br><br> 
-  <b>Programming Languages:</b><br>
-  💻 Java
-  🐍 R Language
-  🐦 C Language
-  🌐 ASP .NET<br><br>
-  <b>Others:</b><br>
-  📝 Data Structures
-  🧱 OOP
-  📮 Postman
-  📌 Trello<br>
-</p>
+## 🛠️ Technical Stack
 
-<!-- Github Stats -->
-<h2 align="center">📈 Github Stats</h2>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharindu432&show_icons=true&theme=radical" alt="Github Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu432&layout=donut&theme=radical" alt="Github Stats">
-</p>
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<!-- Let's Connect -->
-<h2 align="center">🤝 Let's Connect</h2>
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tharindu-chathuranga-ruwanpathirana-5917a520a/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://ruwanpathiranatc.netlify.app/"><img src="https://img.shields.io/badge/-Website-blue?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"></a>
-  <a href="mailto:chathuranga.rp20000@gmail.com"><img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://wa.me/+94764492334"><img src="https://img.shields.io/badge/-WhatsApp-blue?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp"></a>
-</p>
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+### Architecture & Concepts
+![Microservices](https://img.shields.io/badge/Microservices-gray?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-navy?style=flat-square)
+![Data Structures](https://img.shields.io/badge/Data_Structures-teal?style=flat-square)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tharindu432&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu432&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+## 📫 Get in Touch
+
+- 💼 LinkedIn: [Tharindu Ruwanpathirana](https://www.linkedin.com/in/tharindu-chathuranga-ruwanpathirana-5917a520a/)
+- 🌐 Portfolio: [ruwanpathiranatc.netlify.app](https://ruwanpathiranatc.netlify.app/)
+- 📧 Email: chathuranga.rp20000@gmail.com
+- 💬 WhatsApp: [+94 76 449 2334](https://wa.me/+94764492334)
