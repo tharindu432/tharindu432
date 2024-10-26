@@ -28,9 +28,6 @@ const tharindu = {
 
 ## 💻 Tech Stack
 
-<details>
-<summary>Click to expand!</summary>
-
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -66,18 +63,13 @@ const tharindu = {
 ![OOP](https://img.shields.io/badge/OOP-navy?style=for-the-badge)
 ![Data Structures](https://img.shields.io/badge/Data_Structures-teal?style=for-the-badge)
 
-</details>
-
 ## 📊 GitHub Stats
 
-<details>
-<summary>Click to expand!</summary>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tharindu432&show_icons=true&theme=tokyonight&hide_border=true" alt="Tharindu's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharindu432&theme=tokyonight&hide_border=true" alt="Tharindu's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharindu432&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
-</details>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tharindu432&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
@@ -111,9 +103,3 @@ const tharindu = {
 
 <!-- Snake animation -->
 ![Snake animation](https://github.com/tharindu432/tharindu432/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-Note: To make the Snake animation work, you need to:
-1. Create a new repository with the same name as your GitHub username
-2. Set up a GitHub Action to generate the snake animation
--->
