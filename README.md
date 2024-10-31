@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Tharindu;Full+Stack+Developer;Software+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Tharindu;Software+Engineer;Full+Stack+Developer;Final+Year+IT+Undergraduate+Student)](https://git.io/typing-svg)
   
 # Tharindu Ruwanpathirana
 ### Software Engineer | Final Year IT Undergraduate
