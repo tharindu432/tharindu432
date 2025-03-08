@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tharindu+Ruwanpathirana;Software+Engineer;Passionate+about+Building+Scalable+and+Innovative+Solutions)](https://git.io/typing-svg)
 
 # **Tharindu Ruwanpathirana**
-### **Software Engineer | Full Stack Developer | Researcher**
+### **Software Engineer | Full Stack Development | Cloud Technologies**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharindu-chathuranga-ruwanpathirana-5917a520a/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tharindu432)
