@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tharindu+Ruwanpathirana;Software+Engineer+|+Passionate+about+Building+Scalable+and+Innovative+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tharindu+Ruwanpathirana+|Software+Engineer+|+Passionate+about+Building+Scalable+and+Innovative+Solutions)](https://git.io/typing-svg)
 
 # **Tharindu Ruwanpathirana**
 ### **Software Engineer | Full Stack Developer | Researcher**
